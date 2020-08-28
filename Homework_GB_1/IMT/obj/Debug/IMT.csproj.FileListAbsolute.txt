@@ -1,7 +1,0 @@
-D:\программы на C#\Homework_GB_1\IMT\bin\Debug\IMT.exe.config
-D:\программы на C#\Homework_GB_1\IMT\bin\Debug\IMT.exe
-D:\программы на C#\Homework_GB_1\IMT\bin\Debug\IMT.pdb
-D:\программы на C#\Homework_GB_1\IMT\obj\Debug\IMT.csprojAssemblyReference.cache
-D:\программы на C#\Homework_GB_1\IMT\obj\Debug\IMT.csproj.CoreCompileInputs.cache
-D:\программы на C#\Homework_GB_1\IMT\obj\Debug\IMT.exe
-D:\программы на C#\Homework_GB_1\IMT\obj\Debug\IMT.pdb
