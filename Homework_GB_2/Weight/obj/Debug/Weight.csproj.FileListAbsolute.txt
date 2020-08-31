@@ -1,0 +1,6 @@
+D:\программы на C#\homeGB\Homework_GB_2\Weight\bin\Debug\Weight.exe.config
+D:\программы на C#\homeGB\Homework_GB_2\Weight\bin\Debug\Weight.exe
+D:\программы на C#\homeGB\Homework_GB_2\Weight\bin\Debug\Weight.pdb
+D:\программы на C#\homeGB\Homework_GB_2\Weight\obj\Debug\Weight.csproj.CoreCompileInputs.cache
+D:\программы на C#\homeGB\Homework_GB_2\Weight\obj\Debug\Weight.exe
+D:\программы на C#\homeGB\Homework_GB_2\Weight\obj\Debug\Weight.pdb
