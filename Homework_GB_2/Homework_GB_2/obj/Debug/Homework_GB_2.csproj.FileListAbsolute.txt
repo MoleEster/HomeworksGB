@@ -1,0 +1,7 @@
+D:\программы на C#\homeGB\Homework_GB_2\Homework_GB_2\bin\Debug\Homework_GB_2.exe.config
+D:\программы на C#\homeGB\Homework_GB_2\Homework_GB_2\bin\Debug\Homework_GB_2.exe
+D:\программы на C#\homeGB\Homework_GB_2\Homework_GB_2\bin\Debug\Homework_GB_2.pdb
+D:\программы на C#\homeGB\Homework_GB_2\Homework_GB_2\obj\Debug\Homework_GB_2.csprojAssemblyReference.cache
+D:\программы на C#\homeGB\Homework_GB_2\Homework_GB_2\obj\Debug\Homework_GB_2.csproj.CoreCompileInputs.cache
+D:\программы на C#\homeGB\Homework_GB_2\Homework_GB_2\obj\Debug\Homework_GB_2.exe
+D:\программы на C#\homeGB\Homework_GB_2\Homework_GB_2\obj\Debug\Homework_GB_2.pdb
