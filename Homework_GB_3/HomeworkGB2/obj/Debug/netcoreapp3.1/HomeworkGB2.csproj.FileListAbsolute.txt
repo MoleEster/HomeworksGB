@@ -1,0 +1,13 @@
+C:\работа\geekbrains\HomeworkGB2\HomeworkGB2\bin\Debug\netcoreapp3.1\HomeworkGB2.exe
+C:\работа\geekbrains\HomeworkGB2\HomeworkGB2\bin\Debug\netcoreapp3.1\HomeworkGB2.deps.json
+C:\работа\geekbrains\HomeworkGB2\HomeworkGB2\bin\Debug\netcoreapp3.1\HomeworkGB2.runtimeconfig.json
+C:\работа\geekbrains\HomeworkGB2\HomeworkGB2\bin\Debug\netcoreapp3.1\HomeworkGB2.runtimeconfig.dev.json
+C:\работа\geekbrains\HomeworkGB2\HomeworkGB2\bin\Debug\netcoreapp3.1\HomeworkGB2.dll
+C:\работа\geekbrains\HomeworkGB2\HomeworkGB2\bin\Debug\netcoreapp3.1\HomeworkGB2.pdb
+C:\работа\geekbrains\HomeworkGB2\HomeworkGB2\obj\Debug\netcoreapp3.1\HomeworkGB2.csprojAssemblyReference.cache
+C:\работа\geekbrains\HomeworkGB2\HomeworkGB2\obj\Debug\netcoreapp3.1\HomeworkGB2.AssemblyInfoInputs.cache
+C:\работа\geekbrains\HomeworkGB2\HomeworkGB2\obj\Debug\netcoreapp3.1\HomeworkGB2.AssemblyInfo.cs
+C:\работа\geekbrains\HomeworkGB2\HomeworkGB2\obj\Debug\netcoreapp3.1\HomeworkGB2.csproj.CoreCompileInputs.cache
+C:\работа\geekbrains\HomeworkGB2\HomeworkGB2\obj\Debug\netcoreapp3.1\HomeworkGB2.dll
+C:\работа\geekbrains\HomeworkGB2\HomeworkGB2\obj\Debug\netcoreapp3.1\HomeworkGB2.pdb
+C:\работа\geekbrains\HomeworkGB2\HomeworkGB2\obj\Debug\netcoreapp3.1\HomeworkGB2.genruntimeconfig.cache

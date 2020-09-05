@@ -1,0 +1,7 @@
+D:\программы на C#\homeGB\Homework_GB_2\GoodNumers\bin\Debug\GoodNumers.exe.config
+D:\программы на C#\homeGB\Homework_GB_2\GoodNumers\bin\Debug\GoodNumers.exe
+D:\программы на C#\homeGB\Homework_GB_2\GoodNumers\bin\Debug\GoodNumers.pdb
+D:\программы на C#\homeGB\Homework_GB_2\GoodNumers\obj\Debug\GoodNumers.csproj.CoreCompileInputs.cache
+D:\программы на C#\homeGB\Homework_GB_2\GoodNumers\obj\Debug\GoodNumers.exe
+D:\программы на C#\homeGB\Homework_GB_2\GoodNumers\obj\Debug\GoodNumers.pdb
+D:\программы на C#\homeGB\Homework_GB_2\GoodNumers\obj\Debug\GoodNumers.csprojAssemblyReference.cache
