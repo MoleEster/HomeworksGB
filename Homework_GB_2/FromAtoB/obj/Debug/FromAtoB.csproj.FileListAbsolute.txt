@@ -1,0 +1,7 @@
+D:\программы на C#\homeGB\Homework_GB_2\FromAtoB\bin\Debug\FromAtoB.exe.config
+D:\программы на C#\homeGB\Homework_GB_2\FromAtoB\bin\Debug\FromAtoB.exe
+D:\программы на C#\homeGB\Homework_GB_2\FromAtoB\bin\Debug\FromAtoB.pdb
+D:\программы на C#\homeGB\Homework_GB_2\FromAtoB\obj\Debug\FromAtoB.csprojAssemblyReference.cache
+D:\программы на C#\homeGB\Homework_GB_2\FromAtoB\obj\Debug\FromAtoB.csproj.CoreCompileInputs.cache
+D:\программы на C#\homeGB\Homework_GB_2\FromAtoB\obj\Debug\FromAtoB.exe
+D:\программы на C#\homeGB\Homework_GB_2\FromAtoB\obj\Debug\FromAtoB.pdb

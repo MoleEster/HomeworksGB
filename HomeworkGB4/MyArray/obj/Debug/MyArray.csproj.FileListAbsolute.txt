@@ -1,0 +1,7 @@
+D:\программы на C#\homeGB\HomeworkGB4\MyArray\bin\Debug\MyArray.exe.config
+D:\программы на C#\homeGB\HomeworkGB4\MyArray\bin\Debug\MyArray.exe
+D:\программы на C#\homeGB\HomeworkGB4\MyArray\bin\Debug\MyArray.pdb
+D:\программы на C#\homeGB\HomeworkGB4\MyArray\obj\Debug\MyArray.csprojAssemblyReference.cache
+D:\программы на C#\homeGB\HomeworkGB4\MyArray\obj\Debug\MyArray.csproj.CoreCompileInputs.cache
+D:\программы на C#\homeGB\HomeworkGB4\MyArray\obj\Debug\MyArray.exe
+D:\программы на C#\homeGB\HomeworkGB4\MyArray\obj\Debug\MyArray.pdb

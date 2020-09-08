@@ -1,0 +1,7 @@
+C:\работа\geekbrains\HomeworkGB2\Fractions\bin\Debug\Fractions.exe.config
+C:\работа\geekbrains\HomeworkGB2\Fractions\bin\Debug\Fractions.exe
+C:\работа\geekbrains\HomeworkGB2\Fractions\bin\Debug\Fractions.pdb
+C:\работа\geekbrains\HomeworkGB2\Fractions\obj\Debug\Fractions.csprojAssemblyReference.cache
+C:\работа\geekbrains\HomeworkGB2\Fractions\obj\Debug\Fractions.csproj.CoreCompileInputs.cache
+C:\работа\geekbrains\HomeworkGB2\Fractions\obj\Debug\Fractions.exe
+C:\работа\geekbrains\HomeworkGB2\Fractions\obj\Debug\Fractions.pdb
