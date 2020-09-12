@@ -1,0 +1,7 @@
+D:\программы на C#\homeGB\HomeworkGB5\NewMessage\bin\Debug\NewMessage.exe.config
+D:\программы на C#\homeGB\HomeworkGB5\NewMessage\bin\Debug\NewMessage.exe
+D:\программы на C#\homeGB\HomeworkGB5\NewMessage\bin\Debug\NewMessage.pdb
+D:\программы на C#\homeGB\HomeworkGB5\NewMessage\obj\Debug\NewMessage.csprojAssemblyReference.cache
+D:\программы на C#\homeGB\HomeworkGB5\NewMessage\obj\Debug\NewMessage.csproj.CoreCompileInputs.cache
+D:\программы на C#\homeGB\HomeworkGB5\NewMessage\obj\Debug\NewMessage.exe
+D:\программы на C#\homeGB\HomeworkGB5\NewMessage\obj\Debug\NewMessage.pdb

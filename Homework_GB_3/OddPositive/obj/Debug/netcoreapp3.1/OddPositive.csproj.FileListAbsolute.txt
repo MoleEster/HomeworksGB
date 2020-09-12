@@ -1,0 +1,13 @@
+C:\работа\geekbrains\HomeworkGB2\OddPositive\bin\Debug\netcoreapp3.1\OddPositive.exe
+C:\работа\geekbrains\HomeworkGB2\OddPositive\bin\Debug\netcoreapp3.1\OddPositive.deps.json
+C:\работа\geekbrains\HomeworkGB2\OddPositive\bin\Debug\netcoreapp3.1\OddPositive.runtimeconfig.json
+C:\работа\geekbrains\HomeworkGB2\OddPositive\bin\Debug\netcoreapp3.1\OddPositive.runtimeconfig.dev.json
+C:\работа\geekbrains\HomeworkGB2\OddPositive\bin\Debug\netcoreapp3.1\OddPositive.dll
+C:\работа\geekbrains\HomeworkGB2\OddPositive\bin\Debug\netcoreapp3.1\OddPositive.pdb
+C:\работа\geekbrains\HomeworkGB2\OddPositive\obj\Debug\netcoreapp3.1\OddPositive.csprojAssemblyReference.cache
+C:\работа\geekbrains\HomeworkGB2\OddPositive\obj\Debug\netcoreapp3.1\OddPositive.AssemblyInfoInputs.cache
+C:\работа\geekbrains\HomeworkGB2\OddPositive\obj\Debug\netcoreapp3.1\OddPositive.AssemblyInfo.cs
+C:\работа\geekbrains\HomeworkGB2\OddPositive\obj\Debug\netcoreapp3.1\OddPositive.csproj.CoreCompileInputs.cache
+C:\работа\geekbrains\HomeworkGB2\OddPositive\obj\Debug\netcoreapp3.1\OddPositive.dll
+C:\работа\geekbrains\HomeworkGB2\OddPositive\obj\Debug\netcoreapp3.1\OddPositive.pdb
+C:\работа\geekbrains\HomeworkGB2\OddPositive\obj\Debug\netcoreapp3.1\OddPositive.genruntimeconfig.cache

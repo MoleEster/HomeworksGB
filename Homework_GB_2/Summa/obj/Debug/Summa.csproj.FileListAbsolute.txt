@@ -1,0 +1,6 @@
+D:\программы на C#\homeGB\Homework_GB_2\Summa\bin\Debug\Summa.exe.config
+D:\программы на C#\homeGB\Homework_GB_2\Summa\bin\Debug\Summa.exe
+D:\программы на C#\homeGB\Homework_GB_2\Summa\bin\Debug\Summa.pdb
+D:\программы на C#\homeGB\Homework_GB_2\Summa\obj\Debug\Summa.csproj.CoreCompileInputs.cache
+D:\программы на C#\homeGB\Homework_GB_2\Summa\obj\Debug\Summa.exe
+D:\программы на C#\homeGB\Homework_GB_2\Summa\obj\Debug\Summa.pdb
