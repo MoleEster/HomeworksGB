@@ -5,3 +5,10 @@ C:\работа\geekbrains\HomeworkGB2\Fractions\obj\Debug\Fractions.csprojAssem
 C:\работа\geekbrains\HomeworkGB2\Fractions\obj\Debug\Fractions.csproj.CoreCompileInputs.cache
 C:\работа\geekbrains\HomeworkGB2\Fractions\obj\Debug\Fractions.exe
 C:\работа\geekbrains\HomeworkGB2\Fractions\obj\Debug\Fractions.pdb
+D:\программы на C#\homeGB\Homework_GB_3\Fractions\bin\Debug\Fractions.exe.config
+D:\программы на C#\homeGB\Homework_GB_3\Fractions\bin\Debug\Fractions.exe
+D:\программы на C#\homeGB\Homework_GB_3\Fractions\bin\Debug\Fractions.pdb
+D:\программы на C#\homeGB\Homework_GB_3\Fractions\obj\Debug\Fractions.csprojAssemblyReference.cache
+D:\программы на C#\homeGB\Homework_GB_3\Fractions\obj\Debug\Fractions.csproj.CoreCompileInputs.cache
+D:\программы на C#\homeGB\Homework_GB_3\Fractions\obj\Debug\Fractions.exe
+D:\программы на C#\homeGB\Homework_GB_3\Fractions\obj\Debug\Fractions.pdb

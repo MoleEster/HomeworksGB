@@ -1,0 +1,7 @@
+D:\программы на C#\homeGB\HomeworkGB5\Replacement\bin\Debug\Replacement.exe.config
+D:\программы на C#\homeGB\HomeworkGB5\Replacement\bin\Debug\Replacement.exe
+D:\программы на C#\homeGB\HomeworkGB5\Replacement\bin\Debug\Replacement.pdb
+D:\программы на C#\homeGB\HomeworkGB5\Replacement\obj\Debug\Replacement.csprojAssemblyReference.cache
+D:\программы на C#\homeGB\HomeworkGB5\Replacement\obj\Debug\Replacement.csproj.CoreCompileInputs.cache
+D:\программы на C#\homeGB\HomeworkGB5\Replacement\obj\Debug\Replacement.exe
+D:\программы на C#\homeGB\HomeworkGB5\Replacement\obj\Debug\Replacement.pdb

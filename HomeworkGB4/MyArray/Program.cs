@@ -15,11 +15,19 @@ namespace MyArray
         {
             MyArray a = new MyArray(5, 5, 5);
             Console.WriteLine($"\n{ a.Sum}");
+
+
             foreach (var item in a.Inverse)
             {
                 Console.Write($"{item} ");
             }
             Console.WriteLine();
+
+
+            Console.WriteLine(Convert.ToInt32(a.ToString()));
+            Console.WriteLine();
+
+
             foreach (var item in a.Multi)
             {
                 Console.Write($"{item} ");
