@@ -1,0 +1,7 @@
+D:\программы на C#\homeGB\Homework_GB_2\AmountOfNum\bin\Debug\AmountOfNum.exe.config
+D:\программы на C#\homeGB\Homework_GB_2\AmountOfNum\bin\Debug\AmountOfNum.exe
+D:\программы на C#\homeGB\Homework_GB_2\AmountOfNum\bin\Debug\AmountOfNum.pdb
+D:\программы на C#\homeGB\Homework_GB_2\AmountOfNum\obj\Debug\AmountOfNum.csproj.CoreCompileInputs.cache
+D:\программы на C#\homeGB\Homework_GB_2\AmountOfNum\obj\Debug\AmountOfNum.exe
+D:\программы на C#\homeGB\Homework_GB_2\AmountOfNum\obj\Debug\AmountOfNum.pdb
+D:\программы на C#\homeGB\Homework_GB_2\AmountOfNum\obj\Debug\AmountOfNum.csprojAssemblyReference.cache

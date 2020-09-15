@@ -1,0 +1,7 @@
+D:\программы на C#\homeGB\Homework_GB_2\Authorise\bin\Debug\Authorise.exe.config
+D:\программы на C#\homeGB\Homework_GB_2\Authorise\bin\Debug\Authorise.exe
+D:\программы на C#\homeGB\Homework_GB_2\Authorise\bin\Debug\Authorise.pdb
+D:\программы на C#\homeGB\Homework_GB_2\Authorise\obj\Debug\Authorise.csprojAssemblyReference.cache
+D:\программы на C#\homeGB\Homework_GB_2\Authorise\obj\Debug\Authorise.csproj.CoreCompileInputs.cache
+D:\программы на C#\homeGB\Homework_GB_2\Authorise\obj\Debug\Authorise.exe
+D:\программы на C#\homeGB\Homework_GB_2\Authorise\obj\Debug\Authorise.pdb
