@@ -1,0 +1,7 @@
+D:\программы на C#\homeGB\HomeworkGB6\MinimumFinding\bin\Debug\MinimumFinding.exe.config
+D:\программы на C#\homeGB\HomeworkGB6\MinimumFinding\bin\Debug\MinimumFinding.exe
+D:\программы на C#\homeGB\HomeworkGB6\MinimumFinding\bin\Debug\MinimumFinding.pdb
+D:\программы на C#\homeGB\HomeworkGB6\MinimumFinding\obj\Debug\MinimumFinding.csprojAssemblyReference.cache
+D:\программы на C#\homeGB\HomeworkGB6\MinimumFinding\obj\Debug\MinimumFinding.csproj.CoreCompileInputs.cache
+D:\программы на C#\homeGB\HomeworkGB6\MinimumFinding\obj\Debug\MinimumFinding.exe
+D:\программы на C#\homeGB\HomeworkGB6\MinimumFinding\obj\Debug\MinimumFinding.pdb

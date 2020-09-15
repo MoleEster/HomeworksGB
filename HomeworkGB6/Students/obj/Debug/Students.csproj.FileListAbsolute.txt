@@ -1,0 +1,7 @@
+D:\программы на C#\homeGB\HomeworkGB6\Students\bin\Debug\Students.exe.config
+D:\программы на C#\homeGB\HomeworkGB6\Students\bin\Debug\Students.exe
+D:\программы на C#\homeGB\HomeworkGB6\Students\bin\Debug\Students.pdb
+D:\программы на C#\homeGB\HomeworkGB6\Students\obj\Debug\Students.csprojAssemblyReference.cache
+D:\программы на C#\homeGB\HomeworkGB6\Students\obj\Debug\Students.csproj.CoreCompileInputs.cache
+D:\программы на C#\homeGB\HomeworkGB6\Students\obj\Debug\Students.exe
+D:\программы на C#\homeGB\HomeworkGB6\Students\obj\Debug\Students.pdb
