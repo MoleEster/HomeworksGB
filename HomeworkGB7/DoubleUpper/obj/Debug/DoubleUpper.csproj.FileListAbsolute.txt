@@ -1,0 +1,10 @@
+D:\программы на C#\homeGB\HomeworkGB7\DoubleUpper\bin\Debug\DoubleUpper.exe.config
+D:\программы на C#\homeGB\HomeworkGB7\DoubleUpper\bin\Debug\DoubleUpper.exe
+D:\программы на C#\homeGB\HomeworkGB7\DoubleUpper\bin\Debug\DoubleUpper.pdb
+D:\программы на C#\homeGB\HomeworkGB7\DoubleUpper\obj\Debug\DoubleUpper.csprojAssemblyReference.cache
+D:\программы на C#\homeGB\HomeworkGB7\DoubleUpper\obj\Debug\DoubleUpper.Form1.resources
+D:\программы на C#\homeGB\HomeworkGB7\DoubleUpper\obj\Debug\DoubleUpper.Properties.Resources.resources
+D:\программы на C#\homeGB\HomeworkGB7\DoubleUpper\obj\Debug\DoubleUpper.csproj.GenerateResource.cache
+D:\программы на C#\homeGB\HomeworkGB7\DoubleUpper\obj\Debug\DoubleUpper.csproj.CoreCompileInputs.cache
+D:\программы на C#\homeGB\HomeworkGB7\DoubleUpper\obj\Debug\DoubleUpper.exe
+D:\программы на C#\homeGB\HomeworkGB7\DoubleUpper\obj\Debug\DoubleUpper.pdb
