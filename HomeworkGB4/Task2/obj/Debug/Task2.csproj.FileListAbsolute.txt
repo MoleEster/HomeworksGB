@@ -1,0 +1,7 @@
+D:\программы на C#\homeGB\HomeworkGB4\Task2\bin\Debug\Task2.exe.config
+D:\программы на C#\homeGB\HomeworkGB4\Task2\bin\Debug\Task2.exe
+D:\программы на C#\homeGB\HomeworkGB4\Task2\bin\Debug\Task2.pdb
+D:\программы на C#\homeGB\HomeworkGB4\Task2\obj\Debug\Task2.csprojAssemblyReference.cache
+D:\программы на C#\homeGB\HomeworkGB4\Task2\obj\Debug\Task2.csproj.CoreCompileInputs.cache
+D:\программы на C#\homeGB\HomeworkGB4\Task2\obj\Debug\Task2.exe
+D:\программы на C#\homeGB\HomeworkGB4\Task2\obj\Debug\Task2.pdb
