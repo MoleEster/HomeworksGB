@@ -1,0 +1,10 @@
+D:\программы на C#\homeGB\HomeworkGB7\GuessTheNuber\bin\Debug\GuessTheNuber.exe.config
+D:\программы на C#\homeGB\HomeworkGB7\GuessTheNuber\bin\Debug\GuessTheNuber.exe
+D:\программы на C#\homeGB\HomeworkGB7\GuessTheNuber\bin\Debug\GuessTheNuber.pdb
+D:\программы на C#\homeGB\HomeworkGB7\GuessTheNuber\obj\Debug\GuessTheNuber.csprojAssemblyReference.cache
+D:\программы на C#\homeGB\HomeworkGB7\GuessTheNuber\obj\Debug\GuessTheNuber.Form1.resources
+D:\программы на C#\homeGB\HomeworkGB7\GuessTheNuber\obj\Debug\GuessTheNuber.Properties.Resources.resources
+D:\программы на C#\homeGB\HomeworkGB7\GuessTheNuber\obj\Debug\GuessTheNuber.csproj.GenerateResource.cache
+D:\программы на C#\homeGB\HomeworkGB7\GuessTheNuber\obj\Debug\GuessTheNuber.csproj.CoreCompileInputs.cache
+D:\программы на C#\homeGB\HomeworkGB7\GuessTheNuber\obj\Debug\GuessTheNuber.exe
+D:\программы на C#\homeGB\HomeworkGB7\GuessTheNuber\obj\Debug\GuessTheNuber.pdb

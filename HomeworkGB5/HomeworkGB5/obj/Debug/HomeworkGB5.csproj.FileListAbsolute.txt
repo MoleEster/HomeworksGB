@@ -1,0 +1,7 @@
+D:\программы на C#\homeGB\HomeworkGB5\HomeworkGB5\bin\Debug\HomeworkGB5.exe.config
+D:\программы на C#\homeGB\HomeworkGB5\HomeworkGB5\bin\Debug\HomeworkGB5.exe
+D:\программы на C#\homeGB\HomeworkGB5\HomeworkGB5\bin\Debug\HomeworkGB5.pdb
+D:\программы на C#\homeGB\HomeworkGB5\HomeworkGB5\obj\Debug\HomeworkGB5.csprojAssemblyReference.cache
+D:\программы на C#\homeGB\HomeworkGB5\HomeworkGB5\obj\Debug\HomeworkGB5.csproj.CoreCompileInputs.cache
+D:\программы на C#\homeGB\HomeworkGB5\HomeworkGB5\obj\Debug\HomeworkGB5.exe
+D:\программы на C#\homeGB\HomeworkGB5\HomeworkGB5\obj\Debug\HomeworkGB5.pdb

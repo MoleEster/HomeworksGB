@@ -1,0 +1,7 @@
+D:\программы на C#\homeGB\ComputerGame\ComputerGame\bin\Debug\ComputerGame.exe.config
+D:\программы на C#\homeGB\ComputerGame\ComputerGame\bin\Debug\ComputerGame.exe
+D:\программы на C#\homeGB\ComputerGame\ComputerGame\bin\Debug\ComputerGame.pdb
+D:\программы на C#\homeGB\ComputerGame\ComputerGame\obj\Debug\ComputerGame.csprojAssemblyReference.cache
+D:\программы на C#\homeGB\ComputerGame\ComputerGame\obj\Debug\ComputerGame.csproj.CoreCompileInputs.cache
+D:\программы на C#\homeGB\ComputerGame\ComputerGame\obj\Debug\ComputerGame.exe
+D:\программы на C#\homeGB\ComputerGame\ComputerGame\obj\Debug\ComputerGame.pdb
